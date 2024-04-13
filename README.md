@@ -4,10 +4,9 @@
 
 "Monster Hunter" which is a role-playing game “RPG” set in a fantasy world with 4 regions inspired from Pokémon game series.
 Where the player takes on the role of the Chosen one and gets to explore an open world and face a lot of challenges while exploring.
-
-### Watch the Demo :
-
-(https://www.youtube.com/watch?v=Vrefa8zY_zY)
+###
+> [!TIP]
+> ### Watch the Demo : https://www.youtube.com/watch?v=Vrefa8zY_zY
 
 ### Captures :
 #### Login
