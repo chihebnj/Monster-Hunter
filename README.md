@@ -7,7 +7,7 @@ Where the player takes on the role of the Chosen one and gets to explore an open
 
 ### Watch the Demo :
 
-(Coming soon . . .)
+(https://www.youtube.com/watch?v=Vrefa8zY_zY)
 
 ### Captures :
 #### Login
