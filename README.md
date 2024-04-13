@@ -18,7 +18,7 @@ Where the player takes on the role of the Chosen one and gets to explore an open
 
 #### Monsters & Trainers battle 
 <div> 
-<img src="https://github.com/chihebnj/Monster-Hunter/assets/164964513/a85e5c62-4648-4606-b6b2-6a4ffe920746" with="200" height="200" >
+<img src="https://github.com/chihebnj/Monster-Hunter/assets/164964513/5555b6bf-bc06-4aac-af25-606e4b2adb18" with="200" height="200" >
 
 <img src="https://github.com/chihebnj/Monster-Hunter/assets/164964513/a85e5c62-4648-4606-b6b2-6a4ffe920746" with="200" height="200" >
 </div>  
